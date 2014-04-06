@@ -1,5 +1,7 @@
 # 不思議のダンジョン2 風来のシレン
 
+アイテム周りに関連した簡易的な仕様を元に設計してみる
+
 ![Shiren](http://blog-imgs-27.fc2.com/d/o/u/doughtful/shiren02.gif)
 
 ## プレイヤー
